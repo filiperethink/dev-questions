@@ -2,14 +2,16 @@
 
 ## Tarefas
 
-- [ ] Criar Projeto (React + Firebase)
-- [ ] Tela inicial.
-  - [ ] Nome do participante.
-  - [ ] Escolha do nivel do desafio.
-    - [ ] Estagiario.
-    - [ ] Junior
-    - [ ] Pleno
-    - [ ] Senior
+- [x] Criar Projeto (React + Firebase)
+- [x] Tela inicial.
+  - [x] Nome do participante.
+  - [x] Escolha do nivel do desafio.
+    - [x] Estagiario.
+    - [x] Junior
+    - [x] Pleno
+    - [x] Senior
+- [ ] Conectar com Firebase
+- [ ] Enviar dados do candidato para o firebase
 - [ ] Tela de Perguntas
   - [ ] Botão de iniciar
   - [ ] Lista de questões
