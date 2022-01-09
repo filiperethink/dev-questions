@@ -10,10 +10,12 @@
     - [x] Junior
     - [x] Pleno
     - [x] Senior
-- [ ] Conectar com Firebase
-- [ ] Enviar dados do candidato para o firebase
+- [x] Conectar com Firebase
+- [x] Enviar dados do candidato para o firebase
 - [ ] Tela de Perguntas
-  - [ ] Botão de iniciar
+  - [x] Botão de iniciar
+  - [x] Descricão sobre o Candidato atual.
+  - [x] Informações sobre o desafio.
   - [ ] Lista de questões
   - [ ] Escolha das respostas.
   - [ ] Timer de 10 minutos.
